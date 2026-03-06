@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am Shukun Liang, a second-year PhD student in animal science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu).
+Hello! My name is Shukun Liang, and I am a second-year Ph.D. student in Animal Sciences at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu).. I earned my bachelor’s degree in Veterinary Medicine from Sichuan Agricultural University in China and my M.S. degree from China Agricultural University. My research interests center on the intestinal microbiome and its functions in metabolism.
